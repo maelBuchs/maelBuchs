@@ -1,22 +1,10 @@
 # Mael Buchs
 
-📚 Student at 42
-
-## About Me
+student at 42 :)
 
 looking for opportunities while pushing some random stuff
 
-<!-- ## Projets notables
-
-- [Nom du projet 1](lien vers le projet) : Une brève description du projet.
-- [Nom du projet 2](lien vers le projet) : Une brève description du projet.
-- [Nom du projet 3](lien vers le projet) : Une brève description du projet.
--->
-## Interests
-
 i also play piano 🎹
-
-## Contact
 
 <p align="center">
   <a href="https://github.com/maelBuchs">
