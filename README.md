@@ -1,8 +1,8 @@
-# Mael Buchs
+# maem
 
 student at 42 :)
 
-looking for opportunities while pushing some random stuff
+pushing some random stuff
 
 i also play piano 🎹
 
